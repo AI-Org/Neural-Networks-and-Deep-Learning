@@ -74,7 +74,7 @@
 
 9. Consider the following 1 hidden layer neural network:
 
-    ![w2_quiz_9](https://github.com/AI-Org/Neural\ Networks\ and\ Deep\ Learning/blob/master/images/w2_quiz_9.jpg)
+    ![w2_quiz_9](https://github.com/AI-Org/Neural\Neural-Networks-and-Deep-Learning/blob/master/images/w2_quiz_9.jpg)
 
     - b[1] will have shape (4, 1)
     - W[1] will have shape (4, 2)

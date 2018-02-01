@@ -63,7 +63,7 @@ Correct
 
     Which of the following statements are True? (Check all that apply).
 
-    ![w4_quiz_9](https://github.com/AI-Org/Neural\ Networks\ and\ Deep\ Learning/blob/master/images/w4_quiz_9.jpg)
+    ![w4_quiz_9](https://github.com/AI-Org/Neural\Neural-Networks-and-Deep-Learning/blob/master/images/w4_quiz_9.jpg)
 
     - [x] W^[1] will have shape (4, 4)
     - [x] b^[1] will have shape (4, 1)
