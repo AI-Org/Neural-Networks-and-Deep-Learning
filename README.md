@@ -2,14 +2,14 @@
 
 ## Programming Assignments
 
-    - [Week 2 - PA 1 - Logistic Regression with a Neural Network mindset]()
-    - [Week 3 - PA 2 - Planar data classification with one hidden layer]()
-    - [Week 4 - PA 3 - Building your Deep Neural Network: Step by Step¶]()
-    - [Week 4 - PA 4 - Deep Neural Network for Image Classification: Application]()
+    - [ PA 1 - Logistic Regression with a Neural Network mindset]()
+    - [ PA 2 - Planar data classification with one hidden layer]()
+    - [ PA 3 - Building your Deep Neural Network: Step by Step¶]()
+    - [ PA 4 - Deep Neural Network for Image Classification: Application]()
 
-## Quiz Solutions
+##  Q&As
 
-    - [Week 1 Quiz - Introduction to deep learning]()
-    - [Week 2 Quiz - Neural Network Basics]()
-    - [Week 3 Quiz - Shallow Neural Networks]()
-    - [Week 4 Quiz - Key concepts on Deep Neural Networks]()
+    - [ Introduction to deep learning]()
+    - [ Neural Network Basics]()
+    - [ Shallow Neural Networks]()
+    - [ Key concepts on Deep Neural Networks]()
