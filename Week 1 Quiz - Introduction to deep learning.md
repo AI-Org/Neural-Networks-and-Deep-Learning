@@ -28,10 +28,11 @@
 
 5. Which one of these plots represents a ReLU activation function?
 
-    - [ ] ![quiz_5_a](https://github.com/AI-Org/Neural\ Networks\ and\ Deep\ Learning/blob/master/images/quiz_5_a.png)
-    - [ ] ![quiz_5_b](https://github.com/AI-Org/Neural\ Networks\ and\ Deep\ Learning/blob/master/images/quiz_5_b.jpg)
-    - [X] ![quiz_5_c](https://github.com/AI-Org/Neural\ Networks\ and\ Deep\ Learning/blob/master/images/quiz_5_c.jpg)
-    - [ ] ![quiz_5_d](https://github.com/AI-Org/Neural\ Networks\ and\ Deep\ Learning/blob/master/images/quiz_5_d.jpg)
+
+    - [ ] ![quiz_5_a](https://github.com/AI-Org/Neural-Networks-and-Deep-Learning/blob/master/images/quiz_5_a.png)
+    - [ ] ![quiz_5_b](https://github.com/AI-Org/Neural-Networks-and-Deep-Learning/blob/master/images/quiz_5_b.jpg)
+    - [X] ![quiz_5_c](https://github.com/AI-Org/Neural-Networks-and-Deep-Learning/blob/master/images/quiz_5_c.jpg)
+    - [ ] ![quiz_5_d](https://github.com/AI-Org/Neural-Networks-and-Deep-Learning/blob/master/images/quiz_5_d.jpg)
 
 
 6. Images for cat recognition is an example of “structured” data, because it is represented as a structured array in a computer. True/False?
@@ -53,7 +54,7 @@
 
 9. In this diagram which we hand-drew in lecture, what do the horizontal axis (x-axis) and vertical axis (y-axis) represent?
 
-    ![quiz_9](https://github.com/AI-Org/Neural\ Networks\ and\ Deep\ Learning/blob/master/images/quiz_9.jpg)
+    ![quiz_9](https://github.com/AI-Org/Neural-Networks-and-Deep-Learning/blob/master/images/quiz_9.jpg)
 
     - [ ] - x-axis is the amount of data
           - y-axis is the size of the model you train.
